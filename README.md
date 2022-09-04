@@ -1,9 +1,7 @@
 <h1 align="center"> Mandeep Singh </h1>
 <h3 align="center">A Robotics graduate student at Worcester Polytechnic Institute,Massachusetts, USA</h3>
 
-- 🔭 I’m currently working on **Road surface semantic segmentation project.**
-
-- 🌱 I’m currently learning **deep learning using Pytorch and Tensorflow.**
+- 🌱 I’m currently learning **Computer vision using classical and deep learning approach**
 
 - 👯 I’m looking to collaborate **on projects related to application of computer vision and deep learning in autonomous vehciles.**
 
