@@ -1,9 +1,9 @@
 <h1 align="center"> Mandeep Singh </h1>
 <h3 align="center">A Robotics graduate student at Worcester Polytechnic Institute,Massachusetts, USA</h3>
 
-- 🌱 I’m currently learning **Computer vision using classical and deep learning approach.**
+- 🌱 I’m currently learning **Computer vision, Deep Learning and Motion planning**.
 
-- 👯 Looking to collaborate **on projects related to application of computer vision and deep learning in autonomous vehciles.**
+- 👯 Currently working on **Visual Inertial Odometry** project.
 
 - 📫 How to reach me - **msingh2@wpi.edu**
 
