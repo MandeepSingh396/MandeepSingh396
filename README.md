@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Computer vision, Deep Learning and Motion planning**.
 
-- 👯 Currently working on **Visual Inertial Odometry** project.
+- 👯 Currently working on **LiDAR semantic mapping** project.
 
 - 📫 How to reach me - **msingh2@wpi.edu**
 
