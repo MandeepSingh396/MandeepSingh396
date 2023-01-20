@@ -1,9 +1,7 @@
 <h1 align="center"> Mandeep Singh </h1>
 <h3 align="center">A Robotics graduate student at Worcester Polytechnic Institute,Massachusetts, USA</h3>
 
-- 🌱 I’m currently learning **Computer vision, Robot Perception and Deep Learning*.
-
-- 👯 Currently working on **LiDAR semantic mapping** project.
+- 🌱 I’m currently learning **Computer vision, Robot Perception and Deep Learning**.
 
 - 📫 How to reach me - **msingh2@wpi.edu**
 
