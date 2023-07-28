@@ -3,9 +3,9 @@
 
 - **Machine Learning intern @ Deka R&D**.
   
--  **Computer vision, Robot Perception and Deep Learning**.
+-  **Interests : Computer vision, Robot Perception and Deep Learning**.
 
-- **2D Object Detection, Semantic Segmentation, 3D reconstruction**.
+- **Experience : 2D Object Detection, Semantic Segmentation, 3D reconstruction**.
   
 - 📫 How to reach me - **msingh2@wpi.edu**
 
