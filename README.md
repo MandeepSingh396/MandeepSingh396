@@ -9,7 +9,7 @@
   
 - 📫 How to reach me - **msingh2@wpi.edu**
 
-  <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranebhushan&label=Profile%20views&color=0e75b6&style=flat" alt="ranebhushan" /> </p> -->
+  <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=MandeepSingh396&label=Profile%20views&color=0e75b6&style=flat" alt="MandeepSingh396" /> </p> -->
 
 <div>
   <a href="https://github.com/MandeepSingh396">
