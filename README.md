@@ -1,7 +1,7 @@
 <h1 align="center"> Mandeep Singh </h1>
 <h3 align="center">A Robotics graduate student at Worcester Polytechnic Institute,Massachusetts, USA</h3>
 
-- **Machine Learning intern @ Deka R&D**.
+- **Machine Learning Intern - Perception @ Deka R&D**.
   
 -  **Interests : Computer vision, Robot Perception and Deep Learning**.
 
