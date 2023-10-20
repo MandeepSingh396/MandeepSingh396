@@ -5,7 +5,7 @@
   
 -  **Interests : Computer vision, Robot Perception and Deep Learning**.
 
-- **Experience : 2D Object Detection, Semantic Segmentation, 3D reconstruction**.
+- **Experience : 2D Object Detection, Semantic Segmentation, Depth Estimation, 3D reconstruction**.
   
 - 📫 How to reach me - **msingh2@wpi.edu**
 
