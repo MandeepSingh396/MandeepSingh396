@@ -1,5 +1,5 @@
 <h1 align="center"> Mandeep Singh </h1>
-<h3 align="center">A Robotics graduate student at Worcester Polytechnic Institute,Massachusetts, USA</h3>
+<h3 align="center">A Robotics graduate student from Worcester Polytechnic Institute,Massachusetts, USA</h3>
 
 - **Computer Vision Research Engineer @ Magna New Mobility**.
   
